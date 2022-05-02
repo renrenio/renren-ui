@@ -4,7 +4,7 @@
 - 动态菜单，通过菜单管理统一管理访问路由
 - 演示地址：[http://demo.open.renren.io/renren-security](http://demo.open.renren.io/renren-security) (账号密码：admin/admin)
 
-# 安装
+## 安装
 
 您需要提前在本地安装[Node.js](https://nodejs.org/en/)，版本号为：[12.x、14.x]，再使用[Git](https://git-scm.com/)克隆项目或者直接下载项目后，然后通过`终端命令行`执行以下命令。
 
@@ -25,7 +25,7 @@ npm run serve
 请留意下面的页面，其中`验证码`未能正常显示，控制台有`API请求`报错信息！这时需检查`后台项目`是否正常运行。
 
 
-### 技术栈
+## 技术栈
 
 提前了解和学习这些知识会对使用本项目有很大的帮助。
 
@@ -41,7 +41,7 @@ npm run serve
 * [JS-cookie](https://github.com/js-cookie/js-cookie)
 
 
-### 目录结构
+## 目录结构
 
 ```js
 ├── src                        
@@ -64,7 +64,7 @@ npm run serve
 ```
 <br>
 
-### 常见问题
+## 常见问题
 
 如何修改API请求地址？
 * 修改`/src/pubilc/index.html`文件中`<!-- 开发环境 -->`注释下的`window.SITE_CONFIG['apiURL']`变量值。
