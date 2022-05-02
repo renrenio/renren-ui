@@ -61,8 +61,8 @@ export default {
     return {
       captchaPath: '',
       dataForm: {
-        username: '',
-        password: '',
+        username: 'admin',
+        password: 'admin',
         uuid: '',
         captcha: ''
       }
