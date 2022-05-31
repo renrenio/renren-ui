@@ -92,11 +92,7 @@ router.beforeEach((to, from, next) => {
     }
     window.SITE_CONFIG['menuList'] = res.data
     fnAddDynamicMenuRoutes(window.SITE_CONFIG['menuList'])
-    if(from.path === '/login'){
-      next()
-    }else{
-      next({ ...to, replace: true })
-    }
+    next({ ...to, replace: true })
   }).catch(() => {
     next({ name: 'login' })
   })
