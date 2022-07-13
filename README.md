@@ -83,12 +83,11 @@ window.SITE_CONFIG['apiURL'] = 'http://localhost:8080/renren-admin';
 ```
 <br>
 
-**如何交流、反馈、参与贡献？**
+## 如何交流、反馈、参与贡献？
 - 开发文档：https://www.renren.io/guide/security
 - 官方社区：https://www.renren.io/community
 - Gitee仓库：https://gitee.com/renrenio/renren-ui
 - [人人开源](https://www.renren.io)：https://www.renren.io
-- 官方QQ群：群1：324780204（已满）、群2：145799952（已满）、群3：189969622
 - 如需关注项目最新动态，请Watch、Star项目，同时也是对项目最好的支持
 - 技术讨论、二次开发等咨询、问题和建议，请移步到官方社区，我会在第一时间进行解答和回复！
 - 微信扫码并关注【人人开源】，获得项目最新动态及更新提醒<br>
@@ -96,6 +95,10 @@ window.SITE_CONFIG['apiURL'] = 'http://localhost:8080/renren-admin';
   <br>
   <br>
 
-![捐赠](http://cdn.renren.io/donate.jpg "捐赠")
+## 微信交流群
+为了方便大家技术交流，我们提供了微信交流群，微信扫码下面二维码，关注【人人开源】公众号，回复【加群】，则会提示怎么加入微信交流群！
+<br><br>
+![输入图片说明](public/wechat.jpg)
+
 <br>
 <br>
