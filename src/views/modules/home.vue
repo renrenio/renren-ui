@@ -15,11 +15,10 @@
         <li>后台Git地址：<a href="https://gitee.com/renrenio/renren-security" target="_blank">https://gitee.com/renrenio/renren-security</a></li>
         <li>如需关注项目最新动态，请Watch、Star项目，同时也是对项目最好的支持</li>
       </ul>
-      <h3>官方QQ群</h3>
+      <h3>官方微信群</h3>
       <ul>
-        <li>群1：324780204（已满）</li>
-        <li>群2：145799952（已满）</li>
-        <li>群3：189969622</li>
+        <li>扫码下面的二维码，关注【人人开源】公众号，回复【加群】，即可根据提示加入微信群！</li>
+        <li><img src="https://cdn.renren.io/f5cef202207132229319338.jpg" alt="微信群" /></li>
       </ul>
     </div>
   </el-card>
