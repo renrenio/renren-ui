@@ -486,7 +486,7 @@ $--cascader-tag-background: #f0f2f5;
 
 /* Group
 -------------------------- */
-$--group-option-flex: 0 0 (1/5) * 100% !default;
+$--group-option-flex: 0 0 calc(1 / 5) * 100% !default;
 $--group-option-offset-bottom: 12px !default;
 $--group-option-fill-hover: rgba($--color-black, 0.06) !default;
 $--group-title-color: $--color-black !default;
@@ -978,7 +978,7 @@ $--descriptions-title-font-size: 16px !default;
 $--descriptions-table-border: 1px solid $--border-color-lighter !default;
 $--descriptions-item-bordered-label-background: #fafafa !default;
 
-/* Skeleton 
+/* Skeleton
 --------------------------*/
 $--skeleton-color: #f2f2f2 !default;
 $--skeleton-to-color: #e6e6e6 !default;
